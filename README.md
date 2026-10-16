@@ -1,1 +1,1 @@
-# ATV09---migrar-site-para-o-django---GB-e-EJ
+# Nova atividade do Jean para fazer a migração daquele site antigo para o django
